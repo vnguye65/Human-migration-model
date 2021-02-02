@@ -1,1 +1,1 @@
-# Human-migration-model
+# Migration model
